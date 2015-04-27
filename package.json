@@ -1,0 +1,37 @@
+{
+  "name": "machinepack-2fa",
+  "version": "0.1.0",
+  "description": "Two Factor Authentication",
+  "scripts": {
+    "test": "node ./node_modules/test-machinepack-mocha/bin/testmachinepack-mocha.js"
+  },
+  "keywords": [
+    "2FA",
+    "machines",
+    "machinepack"
+  ],
+  "author": "TheWolfNL | Tjeerd Ritsma <tpritsma@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "2fa": "^0.1.2",
+    "machine": "^3.0.0",
+    "qr-image": "^3.1.0"
+  },
+  "devDependencies": {
+    "test-machinepack-mocha": "^0.2.2"
+  },
+  "machinepack": {
+    "friendlyName": "2FA",
+    "machineDir": "machines/",
+    "machines": [
+      "generate-key",
+      "generate-code",
+      "generate-qr",
+      "validate"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheWolfNL/machinepack-2fa.git"
+  },
+}
