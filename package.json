@@ -10,7 +10,7 @@
     "machines",
     "machinepack"
   ],
-  "author": "TheWolfNL | Tjeerd Ritsma <tpritsma@gmail.com>",
+  "author": "TheWolfNL - Tjeerd Ritsma <tpritsma@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "2fa": "^0.1.2",
