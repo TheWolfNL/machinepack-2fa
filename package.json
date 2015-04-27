@@ -32,6 +32,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/TheWolfNL/machinepack-2fa.git"
+    "url": "git@github.com:TheWolfNL/machinepack-2fa.git"
   },
 }
