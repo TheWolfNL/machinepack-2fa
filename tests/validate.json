@@ -1,0 +1,20 @@
+{
+  "machine": "validate",
+  "expectations": [
+    {
+      "todo": true,
+      "using": {
+        "key": "44xtha1v228542u5q6ddxzdoukji1m74",
+        "code": "123456"
+      },
+      "outcome": "valid"
+    },
+    {
+      "using": {
+        "key": "44xtha1v228542u5q6ddxzdoukji1m74",
+        "code": "123456789"
+      },
+      "outcome": "invalid"
+    }
+  ]
+}

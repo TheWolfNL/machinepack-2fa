@@ -1,0 +1,18 @@
+{
+  "machine": "generate-qr",
+  "expectations": [
+    {
+      "using": {
+        "application": "MachineDev",
+        "username": "John",
+        "key": "44xtha1v228542u5q6ddxzdoukji1m74"
+      },
+      "outcome": "success",
+      "returns": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPUAAAD1CAAAAACt2uy5AAADG0lEQVR42u3by27kIBAF0P7/n06Wo5E69L1gKTPU8SpKW5jDAtcDv74mXi9qampqampqampqampqampqaupe/fp8/bnvw/h/3/JugHejvHvGu5vTmVJTUw9Wp5D+12oV17dszoWamnqcOphbsAWvR1mPnD68esdQU1NTr2LEH0PB4H/BM6rlpaampm7VaeCZJs9VtkxNTU39RH7dzyOoEQabe1qvpKampm57H7/61691fKipqf91dXy8Yzn0ZiO2Cm6fPJdCTU19n7pvZ3zYMj+D0126msF5HE5NTX2BOhgwrSCul6Nf1DRf39jDqampb1andb604hfEq5W1ryVSU1MPUQf+9X6d7sNpDFul4LsRKTU19aXqIIwMwsPNDkqV8G80o6mpqQep0/w1iBuDrLpKt9MAlZqamvor+nIqgKT5cPpDuoAPRaTU1NT/t3rzjG+6v/btjPQIMTU1NXUWhz545K0KS6suMDU1NXUxYJAP98wqEq7OzVBTU89UB7Fk2mUIwFXv96QIQE1NTd22JDZLfNWhu2B+ux0famrqW9THnyOcVPLSXb9/JDU19WB1vxz9O6E6Cxx87XD03Qc1NfV96jTtPWlnVM8Idv0gI6empp6pXpfp+mgxbZn0J2Meyq+pqakvVafgyhVUGtOINOjpUlNTD1ZXhbgqlkxXrIpNN7ov1NTUM9R9IzZt7KaZdlz2W/5ATU09XR1ky9Vk0uizelAauVJTUw9Wv5qrP5xSdUb6wynBRU1NPUl9knhvBp79AqatGmpq6pnqtBQYtHPTfbj6dfNlQU1NPVid5s1pJ/ekLFkdUz7q+FBTU9+iTnfu9BRvsHZBS/ak2UtNTT1T3W/pafshvSVte6RzoaamnqmuOh5BOa/v1QanltP9n5qaero6TbLXweNmMp5Gx5vdXWpq6nHqzaO81TyqlejfLNTU1NSHeXMac/aZdl+HpKampm5PxaVRapVfV2EpNTU19WF+XUWax83ePt2mpqaeqU4z2c2iYPV2WLc4qu2bmpp6kvr6i5qampqampqampqampqampqaen19A28xMxikpXSvAAAAAElFTkSuQmCC"
+    },
+    {
+      "using": {},
+      "outcome": "error"
+    }
+  ]
+}

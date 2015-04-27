@@ -1,0 +1,15 @@
+{
+  "machine": "generate-code",
+  "expectations": [
+    {
+      "using": {
+        "key": "44xtha1v228542u5q6ddxzdoukji1m74"
+      },
+      "outcome": "success"
+    },
+    {
+      "using": {},
+      "outcome": "error"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "machine": "generate-key",
+  "expectations": [
+    {
+      "using": {},
+      "outcome": "success"
+    }
+  ]
+}
