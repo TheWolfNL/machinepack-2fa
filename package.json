@@ -1,6 +1,6 @@
 {
   "name": "machinepack-2fa",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Two Factor Authentication",
   "scripts": {
     "test": "node ./node_modules/test-machinepack-mocha/bin/testmachinepack-mocha.js"
