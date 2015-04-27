@@ -9,7 +9,7 @@
 Two Factor Authentication
 
 
-## Installation &nbsp; [![NPM version](https://badge.fury.io/js/machinepack-2fa.svg)](http://badge.fury.io/js/machinepack-2fa) [![Build Status](https://travis-ci.org/mikermcneil/machinepack-2fa.png?branch=master)](https://travis-ci.org/mikermcneil/machinepack-2fa)
+## Installation &nbsp; [![NPM version](https://badge.fury.io/js/machinepack-2fa.svg)](http://badge.fury.io/js/machinepack-2fa) [![Build Status](https://travis-ci.org/thewolfnl/machinepack-2fa.png?branch=master)](https://travis-ci.org/mikermcneil/machinepack-2fa)
 
 ```sh
 $ npm install machinepack-2fa
